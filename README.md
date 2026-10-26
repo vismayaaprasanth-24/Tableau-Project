@@ -1,4 +1,4 @@
-# NYC TLC Trip Data
+# NYC TLC Trip Data using Tableau Desktop
 
 In this project, We created detailed analysis of trip demand and revenue using **Tableau Desktop**.
 
